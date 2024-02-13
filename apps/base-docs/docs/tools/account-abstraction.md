@@ -16,6 +16,7 @@ keywords:
     Alchemy,
     Biconomy,
     Stackup,
+    WalletKit,
     Zerodev,
   ]
 ---
@@ -26,7 +27,7 @@ keywords:
 
 ## Alchemy Account Kit
 
-[Account Kit](https://www.alchemy.com/account-kit) is a complete solution for account abstraction. Using Account Kit you can create a smart contract wallet for every user that leverages account abstraction to simplify every step of your apps onboaring experience. It also offers Gas Manager and Bundler APIs for sponsoring gas and batching transactions.
+[Account Kit](https://www.alchemy.com/account-kit) is a complete solution for account abstraction. Using Account Kit, you can create a smart contract wallet for every user that leverages account abstraction to simplify every step of your app's onboaring experience. It also offers Gas Manager and Bundler APIs for sponsoring gas and batching transactions.
 
 ---
 
@@ -54,8 +55,18 @@ keywords:
 
 ---
 
+## WalletKit
+
+[WalletKit](https://walletkit.com) is an all-in-one platform for adding smart, gasless wallets to your app. It has integrated support for ERC 4337 and comes with a paymaster and bundler included, requiring no extra setup. 
+
+WalletKit also offers pre-built components for onboarding users with email and social logins, which can be integrated in under 15 minutes using their React SDK or the wagmi connector. Alternatively, build completely bespoke experiences for your users using WalletKit's Wallets API.
+
+WalletKit is compatible with most EVM chains, including Base. You can check out the [WalletKit documentation here](https://docs.walletkit.com). Start building for free on the Base testnet today.
+
+---
+
 ## ZeroDev
 
-[ZeroDev](https://zerodev.app) is an embedded wallet powered by account abstraction. It offers you the ability to create self-custody wallets for your users, sponsor gas, and simplify user slows by batching and automating transactions.
+[ZeroDev](https://zerodev.app) is an embedded wallet powered by account abstraction. It offers you the ability to create self-custody wallets for your users, sponsor gas, and simplify user flows by batching and automating transactions.
 
 ---
